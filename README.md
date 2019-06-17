@@ -23,8 +23,8 @@ Para a validação das rotas é necessário que o usuário realize um método PO
 Os campos a baixos são obrigatórios ao realizar o envio da requisição para a geração do bearer token:
 
 ```bash
-client_id:"site",
-client_secret:"site@password",
+client_id:"zoox",
+client_secret:"zoox@password",
 grant_type:"password",
 username:"admin@gmail.com",
 password:"admin"
